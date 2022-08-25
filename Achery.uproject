@@ -49,6 +49,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "StaticMeshEditorExtension",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
